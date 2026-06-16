@@ -1,0 +1,16 @@
+target/
+*.log
+*.tmp
+*.swp
+*.class
+*.jar
+*.war
+*.iml
+.DS_Store
+.settings/
+.idea/
+.git/
+.gitignore
+.mvn/wrapper/maven-wrapper.jar
+mvnw.cmd
+mvnw
